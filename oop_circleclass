@@ -1,0 +1,34 @@
+import math
+
+from sympy import E
+
+
+class Circle():
+    def __init__(self,d,e,a=0,b=0,c=5):
+        self.x=a
+        self.y=b
+        self.r=c
+        self.inc=d
+        self.outc=e
+    
+    def move(self,x,y):
+        self.x=x
+        self.y=y
+    
+    def change_radius(self,r):
+        self.r=r
+    
+    def compute_area(self):
+        print(self.r*self.r*math.pi)
+        
+    def change_color(self,c):
+        self.inc=c
+        
+    def change_line_color(self,c):
+        self.outc=c
+        
+    def print_info(self):
+        print("(%d,"%self.x,"%d)"%self.y,"r=%d"%self.r," | %s,"%self.inc,"%s"%self.outc)
+        
+c1=Circle("white","white")
+c1.print_info()
