@@ -2,7 +2,7 @@
 #include<iostream>
 using namespace std;
 
-#define ll long long;
+#define ll long long
 #define pii pair<int,int>
 
 
@@ -67,10 +67,10 @@ int main()
 //unsolved
 //////////////////////////////////////////////////////
 //C
-#include<bit/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
-#define ll long long;
+#define ll long long
 #define pii pair<int,int>
 
 
@@ -112,10 +112,10 @@ int main()
 
 ////////////////////////////////////////////////////////////
 //D
-#include<bit/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
-#define ll long long;
+#define ll long long
 #define pii pair<int,int>
 
 
@@ -147,10 +147,10 @@ int main()
 
 //////////////////////////////////////////////////////////////
 //E
-#include<bit/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
-#define ll long long;
+#define ll long long
 #define pii pair<int,int>
 
 
@@ -215,10 +215,10 @@ int main()
 
 ////////////////////////////////////////////////
 //F
-#include<bit/stdc++.h>
+#include<bits/stdc++.h>
 using namespace std;
 
-#define ll long long;
+#define ll long long
 #define pii pair<int,int>
 
 
