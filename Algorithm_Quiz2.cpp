@@ -1,4 +1,9 @@
-//A
+//given time - 01:15:00
+//place - 3/31
+//first solve in the entire quiz - D (00:07:54)
+////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////
+//A - backtracking. 00:36:24 solved
 #include<iostream>
 using namespace std;
 
@@ -66,7 +71,7 @@ int main()
 //B
 //unsolved
 //////////////////////////////////////////////////////
-//C
+//C - queue. 00:21:08 solved
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -111,7 +116,7 @@ int main()
 }
 
 ////////////////////////////////////////////////////////////
-//D
+//D - dp. 00:07:54 first solved
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -146,7 +151,7 @@ int main()
 
 
 //////////////////////////////////////////////////////////////
-//E
+//E - kruskal. 00:47:48 solved
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -214,7 +219,7 @@ int main()
 
 
 ////////////////////////////////////////////////
-//F
+//F - dijkstra. 00:43:19 solved
 #include<bits/stdc++.h>
 using namespace std;
 
