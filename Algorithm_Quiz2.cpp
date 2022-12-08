@@ -12,7 +12,7 @@
 // F: https://code.sasa.hs.kr/problem.php?id=2094
 ////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////
-//A - backtracking. 00:36:24 solved
+//A - backtracking. 00:35:24 solved
 #include<iostream>
 using namespace std;
 
@@ -160,7 +160,7 @@ int main()
 
 
 //////////////////////////////////////////////////////////////
-//E - kruskal. 00:47:48 solved
+//E - kruskal. 00:47:38 solved
 #include<bits/stdc++.h>
 using namespace std;
 
