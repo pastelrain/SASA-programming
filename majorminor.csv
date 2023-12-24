@@ -1,4 +1,4 @@
-N,CumulativeD2,LocalD2,Label2,CumulativeD3,LocalD3,LocalChange3,Label3,CumulativeD4,LocalD4,LocalChange4,Label4,CumulativeD5,LocalD5,LocalChange5,Lable5
+N,CumulativeD2,LocalD2,Label2,CumulativeD3,LocalD3,LocalChange3,Label3,CumulativeD4,LocalD4,LocalChange4,Label4,CumulativeD5,LocalD5,LocalChange5,Label5
 7,0.625,0.75,minor,0.625,0.5,0.5,minor,0.59375,0.625,0.125,major,0.575,0.5,0.375,minor
 7,0.6875,0.75,minor,0.625,0.625,0.375,minor,0.59375,0.5,0.125,major,0.6,0.5,0.25,minor
 7,0.6875,0.875,minor,0.6666666667,0.5,0.375,minor,0.59375,0.625,0.375,major,0.625,0.375,0.5,minor
